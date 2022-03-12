@@ -3,6 +3,7 @@
 
 
   :office:  Looking for professional opportunites in the greater Columbus area (or open to remote)
+  
   :mailbox:  Let's get in touch:
  <p align="center">
   <a href="https://www.linkedin.com/in/claytonwatterson/">
