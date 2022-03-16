@@ -36,8 +36,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest%20-%23C21325.svg?&style=for-the-badge&logo=Jest&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white)
 
 #### Tools
 ![Git](https://img.shields.io/badge/Git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code%20-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20EC2%20-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI%20-%23343434.svg?&style=for-the-badge&logo=circleci&logoColor=white)
 ![Switch](https://img.shields.io/badge/Switch-%23E60012.svg?&style=for-the-badge&logo=nintendo-switch&logoColor=white)
